@@ -14,7 +14,7 @@ Install zerotier software
 
 5. Once your private network setup is done, please configure the adapter setup as shown in the below video :
 
-[<p align="center"><img src="https://user-images.githubusercontent.com/26967717/124154606-4665a600-dab3-11eb-8d2f-668fc5437746.gif" alt="Setup Adapter" width="800px" height="490px"></p>](https://github.com/tshrds/counter-strike-1.6/blob/main/Adapter%20Configuration.mov)
+[<p align="center"><img src="https://user-images.githubusercontent.com/26967717/124154606-4665a600-dab3-11eb-8d2f-668fc5437746.gif" alt="Setup Adapter" width="920px" height="560px"></p>](https://github.com/tshrds/counter-strike-1.6/blob/main/Adapter%20Configuration.mov)
 
 
 ## Setup Counter Strike 1.6
